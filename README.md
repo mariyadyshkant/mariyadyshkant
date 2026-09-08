@@ -1,39 +1,19 @@
-## Hi there, I'm Mariya!
+## Ciao, sono Mariya 👋
 
-<!--
-**mariyady/mariyady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
+Full-stack developer junior, con preferenza per il backend — PHP/Laravel e JavaScript. Ho completato la formazione presso Boolean e sono attualmente alla ricerca di opportunità come sviluppatrice.
 
-Welcome to my GitHub profile! I'm currently taking my first steps into the tech world — eager to grow, build, and share along the way.
+### Cosa sto costruendo
 
-## 👩‍💻 What I'm working on
-- 📚 Exploring the world of web development and programming through online courses
-- 💡 Working on small personal projects as I build up my skills
-- 🧠 Learning new tech skills to switch career paths into the digital space
+- 🐾 **[Fluffman](https://github.com/mariyadyshkant/fluffman-project-work)** — e-commerce per animali, progetto di team (React + Node.js/Express, PostgreSQL)
+- 💰 **[financeD](https://github.com/mariyadyshkant/finance-hub-desktop-app)** — app desktop per la gestione delle finanze personali (Electron + Svelte, FastAPI, Turso)
+- 🎓 **[Corsorama](https://github.com/mariyadyshkant/workshop-catalog)** — catalogo corsi full-stack (Laravel + React)
+- 🧩 Sylla — in sviluppo
 
-## 🌱 What I'm learning
-- HTML, CSS, JavaScript (and maybe some Python soon!)
-- Git & GitHub for version control
-- UI/UX fundamentals
-- How to break things and fix them again 😄
+### Stack
 
-## 🎯 My goals
-- Complete my current tech bootcamp/course
-- Contribute to open source projects
-- Build a portfolio of useful, beautiful web apps
+`PHP` `Laravel` `JavaScript` `React` `Node.js` `SQL`
 
-## ✨ Fun facts
-- I love nature, travel, photography, and creating things with my hands (especially crochet and embroidery)
-- I'm a cat person 😺
-- I've got a balcony full of succulents and avocado plants 🌿🥑
+### Link
 
-## 📫 Let's connect
-Feel free to check out my work or reach out!
-
-📧 [mariya.dyshkant@gmail.com]
-<!-- 
-- 🌐 [Your Portfolio or Personal Site (if any)]
-- 💼 [LinkedIn Profile]
--->
-Thanks for stopping by! 🌻
-
+- 🌐 [Portfolio](https://mariyadyshkant.com)
+- 💼 [LinkedIn](https://linkedin.com/in/mariya-dyshkant-45bb411ba)
