@@ -7,7 +7,7 @@ Full-stack developer junior, con preferenza per il backend — PHP/Laravel e Jav
 - 🐾 **[Fluffman](https://github.com/mariyadyshkant/fluffman-project-work)** — e-commerce per animali, progetto di team (React + Node.js/Express, PostgreSQL)
 - 💰 **[financeD](https://github.com/mariyadyshkant/finance-hub-desktop-app)** — app desktop per la gestione delle finanze personali (Electron + Svelte, FastAPI, Turso)
 - 🎓 **[Corsorama](https://github.com/mariyadyshkant/workshop-catalog)** — catalogo corsi full-stack (Laravel + React)
-- 🧩 **[Sylla] (https://github.com/mariyadyshkant/sylla-ai-driven-pj.git)** — app desktop per tracciare le lezioni, con trascrizione offline e test end-to-end (**[Landing](https://sylla.mariyadyshkant.com)**)
+- 🧩 **[Sylla](https://github.com/mariyadyshkant/sylla-ai-driven-pj.git)** — app desktop per tracciare le lezioni, con trascrizione offline e test end-to-end (**[Landing](https://sylla.mariyadyshkant.com)**)
 
 ### Stack
 
